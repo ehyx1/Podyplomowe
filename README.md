@@ -1,2 +1,2 @@
-# PodyplomoweJava
+# Podyplomowe
 podyplomowe
